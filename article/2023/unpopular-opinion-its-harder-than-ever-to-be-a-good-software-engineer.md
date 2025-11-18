@@ -4,7 +4,6 @@
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/2023/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer.md](https://github.com/xitu/gold-miner/blob/master/article/2023/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer.md)
 > * 译者：[HydeSong](https://github.com/HydeSong)
 > * 校对者：
-
 # 【译】小众观点：如今要成为一名优秀的软件工程师比以往任何时候都难
 
 [![Cover image for Unpopular Opinion: It's harder than ever to be a good software engineer](https://res.cloudinary.com/practicaldev/image/fetch/s--rkh8tLqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9re3vj1nlkfezgxeilxu.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rkh8tLqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9re3vj1nlkfezgxeilxu.png)
