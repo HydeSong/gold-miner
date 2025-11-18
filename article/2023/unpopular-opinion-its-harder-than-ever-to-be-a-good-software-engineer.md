@@ -1,89 +1,92 @@
-> * 原文地址：[Unpopular Opinion: It’s harder than ever to be a good software engineer](https://dev.to/mjuraj/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer-32ek)
+> * 原文地址：[Unpopular Opinion: It's harder than ever to be a good software engineer](https://dev.to/mjuraj/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer-32ek)
 > * 原文作者：[Juraj Malenica](https://dev.to/mjurajs)
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/article/2023/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer.md](https://github.com/xitu/gold-miner/blob/master/article/2023/unpopular-opinion-its-harder-than-ever-to-be-a-good-software-engineer.md)
-> * 译者：
+> * 译者：[HydeSong](https://github.com/HydeSong)
 > * 校对者：
 
-[![Cover image for Unpopular Opinion: It’s harder than ever to be a good software engineer](https://res.cloudinary.com/practicaldev/image/fetch/s--rkh8tLqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9re3vj1nlkfezgxeilxu.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rkh8tLqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9re3vj1nlkfezgxeilxu.png)
+# 非主流观点：如今要成为一名优秀的软件工程师比以往任何时候都难
 
-Working in a startup environment for almost a decade has given me privileged access to a fast-paced culture of innovation, exploration, and a fail-fast approach. I followed the standard progression ladder: intern, junior, mid, senior, and eventually moved to the engineering management track. Over time, many people I grew with later moved on to work at other companies, becoming highly-respected contributors there. It would be fair to say they are good engineers.
+[![Cover image for Unpopular Opinion: It's harder than ever to be a good software engineer](https://res.cloudinary.com/practicaldev/image/fetch/s--rkh8tLqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9re3vj1nlkfezgxeilxu.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rkh8tLqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9re3vj1nlkfezgxeilxu.png)
 
-Looking back at the journey of my peers, mentees, and my own, it seems harder than ever to be a _good_ engineer.
+在创业公司环境中工作将近十年，让我有幸接触到快节奏的创新、探索和快速失败的的文化。我遵循着标准的职业发展阶梯：实习生、初级、中级、高级，最终转向了工程管理方向。随着时间的推移，许多与我一起成长的人后来转到其他公司工作，在那里成为了备受尊敬的贡献者。可以说他们是优秀的工程师。
 
-## Defining a _good_ engineer
+回顾我的同行、学员以及我自己的历程，要成为一名_优秀_的工程师似乎比以往任何时候都更加困难。
 
-**What does it mean to be an engineer?** As software engineers, we are:
+## 定义一名_优秀的_工程师
 
--   Responsible for translating complex problems into efficient and scalable solutions
--   Tasked with analyzing user requirements, designing software architecture, writing code, and testing and debugging software
--   Expected to stay on top of trends, seeking new business opportunities and ways to improve existing products
+**成为一名工程师意味着什么？** 作为软件工程师，我们：
 
-So no – engineering doesn’t equal programming. Sometimes, that is the smallest part. It definitely appears so as one acquires more experience, as shown in the figure below.
+-   负责将复杂问题转化为高效且可扩展的解决方案
+-   承担分析用户需求、设计软件架构、编写代码以及测试和调试软件的任务
+-   要紧跟趋势，寻找新的商业机会以及改进现有产品的方法
+
+所以，不 —— 工程并不等同于编程。有时候，编程只是其中最小的一部分。正如下图所示，当一个人积累了更多经验后，这一点就会变得非常明显。
 
 [![](https://res.cloudinary.com/practicaldev/image/fetch/s--BC97uBAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfcrp0dz22qnrhkas89u.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BC97uBAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfcrp0dz22qnrhkas89u.png)
 
-Source: [Engineering Leadership Skill Set Overlaps](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps)
+来源：[工程领导技能重叠](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps)
 
-**What does it mean to be a _good_ engineer?** Based on numerous interviews, and supporting my mentees’ progress, I noticed that people with different levels of expertise might give different answers.
+**成为一名_优秀的_工程师意味着什么？** 基于无数次面试和支持我的学员的进步，我注意到不同专业水平的人可能会给出不同的答案。
 
-Someone just starting out might think it’s the number of languages and frameworks a developer knows. A more experienced engineer might not even care about the language they’re using, instead emphasizing code quality - adhering to all coding principles and conducting QA, while moving swiftly.
+刚入行的人可能会认为，这取决于开发者所掌握的编程语言和框架的数量。而经验更丰富的工程师可能根本不在意自己使用的语言，反而会强调代码质量 —— 遵循所有的编码原则，进行质量保证，同时高效推进工作。
 
-Highly experienced engineers place an enormous focus on bringing value. Sometimes we’ll quickly write throw-away code that breaks all the rules to prove a hypothesis; sometimes we’ll spend days writing a couple of lines of mission-critical code. But most days, we are making architectural decisions, discussing mission-critical issues, improving processes, etc. Why? Because often, that brings the most value.
+经验丰富的工程师极其注重创造价值。有时，我们会快速编写一些违背所有规则的一次性代码来验证某个假设；有时，我们会花数天时间编写几行关键任务代码。但大多数时候，我们都在做架构决策、讨论关键任务问题、改进流程等等。为什么呢？因为通常情况下，这些工作能带来最大的价值。
 
-Although there are always exceptions to the rule, we can say that **a good engineer is one that efficiently focuses their effort to bring maximum value in achieving a goal.**
+尽管规则总有例外，但我们可以说，**一名优秀的工程师是能够高效地集中精力，在实现目标的过程中创造最大价值的人。**
 
-## Growing markets and competition
+## 不断增长的市场与竞争
 
-**The tech market is constantly evolving.** We have all seen massive successes over the years: from WhatsApp to Uber, Airbnb, and TikTok. While these may be exceptions, such examples often set the north star for people – something they should strive for. This way of thinking puts extra pressure on engineers. They feel stress from inside, thinking they're doing something wrong, and from outside, with people comparing their company to many competitors.
+**科技市场在不断发展。** 这些年来，我们都见证了许多巨大的成功：从 WhatsApp 到 Uber 、Airbnb 和 TikTok 。虽然这些可能只是个例，但这样的例子往往为人们树立了行业标杆 —— 那是他们应该为之努力的目标。这种思维方式给工程师们带来了额外的压力。他们感受到来自内部的压力，觉得自己做错了什么；同时也感受到来自外部的压力，因为人们会把他们的公司和众多竞争对手进行比较。
 
 [![](https://res.cloudinary.com/practicaldev/image/fetch/s--XX8MRd4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpwm7yro8nqukgnfpbw6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XX8MRd4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpwm7yro8nqukgnfpbw6.png)
 
-Source: [How Healthy is the Public Technology Market?](https://tomtunguz.com/tech-consolidation/)
+来源：[公共科技市场的健康状况如何？](https://tomtunguz.com/tech-consolidation/)
 
-To succeed in such an environment, companies needed to “move fast and break things,” as the famous Facebook motto says. Today this is more obvious than ever – almost every company is becoming an “AI company.” Everyone is integrating ChatGPT, often for no real reason, without a strategy on how it will bring value.
+要在这样的环境中取得成功，正如 Facebook 那句著名的座右铭所说，公司需要 “快速行动，打破陈规”。如今，这一点比以往任何时候都更加明显 —— 几乎每家公司都在成为 “人工智能公司”。所有人都在整合 ChatGPT，而且往往没有真正的理由，也没有关于它将如何创造价值的战略。
 
-**By moving away from the core principle** – how can we bring more value to our customers – and moving towards beating the competition on the hype train, **we get engineers building functionalities that are doomed to fail.**
+**如果我们偏离核心原则** —— 即如何为客户带来更多价值 —— 转而在炒作浪潮中与竞争对手一争高下，**那么工程师们所开发的功能终将注定失败。**
 
-## World is a confusing place
+## 世界是一个令人困惑的地方
 
-What should an enthusiast such as myself do to become a better engineer? Apart from the obvious choice of perfecting coding skills by improving clean code and architecture philosophies, nowadays, there are lots of temptations lurking. Learning TypeScript and that one latest framework that changes everything, diving into the world of blockchain and crypto, experimenting with a myriad of AI products… Options are endless.
+像我这样的爱好者应该做些什么才能成为一名更优秀的工程师呢？除了通过提升整洁代码和架构理念来完善编码技能这一显而易见的选择外，如今还存在着诸多诱惑。学习 TypeScript 以及那款号称能改变一切的最新框架，深入区块链和加密货币的世界，尝试各种各样的人工智能产品…… 可选择的东西无穷无尽。
 
-[![All javascript libraries](https://res.cloudinary.com/practicaldev/image/fetch/s--ge7Vyn7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz12rguhiupwiwmmsebt.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ge7Vyn7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz12rguhiupwiwmmsebt.png)
+[![所有javascript库](https://res.cloudinary.com/practicaldev/image/fetch/s--ge7Vyn7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz12rguhiupwiwmmsebt.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ge7Vyn7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz12rguhiupwiwmmsebt.png)
 
-To be honest, after so many years in the industry, I still felt threatened by the new wave of change brought by ChatGPT, GitHub Copilot, and other emerging tech. My brain started imagining scenarios where I’m out of touch on so many things. Am I focusing on the right things to bring value? Am I using my maximum potential?
+说实话，在这个行业待了这么多年，我仍然对 ChatGPT、GitHub Copilot 以及其他新兴技术带来的新一波变革感到威胁。我的大脑开始想象自己在很多事情上都跟不上节奏的场景。我所专注的事情真的能带来价值吗？我是否发挥了自己最大的潜力？
 
-After some time, it became clear we’re in a hype. That too will pass, leaving only AI companies that are creating long-term value. The number of AI companies in the last 5 years has doubled in the US, with many startups just adding a feature on top of then newly-released GPT-3. They would later die with the release of ChatGPT or GPT-4, which could do the same thing, but better. But that doesn’t stop the hype army of Twitter and other platforms from proclaiming the new world order.
+过了一段时间，情况变得很明显，我们正处于一种炒作之中。这种炒作也终将过去，只留下那些创造长期价值的人工智能公司。在过去 5 年里，美国的人工智能公司数量翻了一番，其中许多初创公司只是在当时新发布的 GPT-3 基础上添加了一项功能。后来，随着 ChatGPT 或 GPT-4 的发布，这些公司就走向了消亡，因为后两者能做同样的事情，而且做得更好。但这并没有阻止 Twitter 等平台上的炒作大军宣告新的世界秩序。
 
-Even with so many years working in tech, I got sucked into the hype. Rookie mistake!
+即便在科技行业工作了这么多年，我还是被这种炒作冲昏了头脑。真是个新手才会犯的错误！
 
-Programming languages and constant releases of new frameworks also add to the confusion. Tailwind, TypeScript, Haskell and Rust are all great; they each have an angle which gives them an advantage. However, people often mistake learning them for something that will give them an edge. It won’t, or at least, it shouldn’t. They are just tools which are nice to know but can’t replace experience. That is why we never put language/framework requirements in our job descriptions. I would be a fool to miss a talented engineer because they don’t know TypeScript, prompt engineering, or microservices.
+编程语言以及新框架的不断发布也加剧了这种困惑。Tailwind、TypeScript、Haskell 和 Rust 都很棒，它们各自都有独特的优势。然而，人们常常错误地认为学习这些就能让自己具备优势。但事实并非如此，至少不应该是这样。它们只是一些值得了解的工具，无法替代经验。这就是为什么我们在职位描述中从不列出对语言或框架的要求。如果因为一位有才华的工程师不懂 TypeScript、提示工程或微服务就错过他，那我就太傻了。
 
-My advice is - **don’t get caught up in new trends and hypes to the point where you lose focus on bringing value.**
+我的建议是 —— **不要过度沉迷于新趋势和炒作，以至于失去了对创造价值的专注。**
 
-## Fast pace and high expectations
+## 快节奏和高期望
 
-**When seeking new challenges, it can be difficult to strive for positive stress, while avoiding negative stress.** Positive stress is one where we perceive a stressful situation as an opportunity leading to a good outcome, while negative stress is one that can have detrimental physical and mental health effects, as seen in the image below. Continuously delivering results on a tight schedule is stressful, and building features for the wrong reasons sways towards the latter.
+**在寻求新挑战时，人们很难做到在追求积极压力的同时避免消极压力。** 积极压力是指我们将有压力的情况视为能带来良好结果的机会，而消极压力则会对身心健康产生不利影响，如下图所示。在紧张的日程安排下持续产出成果会带来压力，而出于错误的原因开发功能则倾向于后者（消极压力）。
 
-[![Positive stress vs. negative stress](https://res.cloudinary.com/practicaldev/image/fetch/s--1BnzUFGS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/503c52srikb307qm3gw7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1BnzUFGS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/503c52srikb307qm3gw7.png)
+[![积极压力 vs 消极压力](https://res.cloudinary.com/practicaldev/image/fetch/s--1BnzUFGS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/503c52srikb307qm3gw7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1BnzUFGS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/503c52srikb307qm3gw7.png)
 
-Both as a mentor and as a hard worker, I’ve seen stress lead to burnouts. Without exception, having someone go through burnout results in less output than reducing workload, taking a break, and optimizing for the long term. That's why we always try to make raising red flags as straightforward as possible, with periodic team updates, one-on-ones, and a nurturing culture.
+无论是作为导师还是一名勤奋的工作者，我都见过压力导致倦怠的情况。毫无例外，让某人经历倦怠所带来的产出，要少于减轻工作量、休息一下并为长期发展进行优化所带来的产出。这就是为什么我们总是努力让发出警示信号变得尽可能简单，具体方式包括定期的团队更新、一对一交流以及营造关怀的文化。
 
-Still, things will go wrong. When they do, we cut scope, involve people who can help, or communicate with our clients to postpone a launch.
+不过，事情还是会出岔子。当这种情况发生时，我们会缩减范围、让能提供帮助的人参与进来，或者与客户沟通以推迟发布。
 
-**Pressure is higher than ever, coming both from within and without. Stay focused and surround yourself with a supportive team optimizing long-term.**
+**压力比以往任何时候都大，既来自内部，也来自外部。要保持专注，让自己身边有一个能优化长期发展的支持团队。**
 
-## How can we do better?
+## 我们怎样才能做得更好？
 
-We all have our down moments – feeling like inadequate engineers, mentors, or colleagues. Things will never be perfect or easy, and they shouldn’t. Without making mistakes and hard times, we don’t learn. But there are some things I find can increase efficiency.
+我们都有情绪低落的时候 —— 感觉自己作为工程师、导师或同事都不够格。事情永远不会完美或轻松，也不应该如此。不犯错、不经历艰难时刻，我们就无法学习和成长。但我发现有些方法可以提高效率。
 
-[![Levels of influence](https://res.cloudinary.com/practicaldev/image/fetch/s--lfFR4swd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omj6ri7izk3d2bz723w9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lfFR4swd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omj6ri7izk3d2bz723w9.png)
+[![影响层次](https://res.cloudinary.com/practicaldev/image/fetch/s--lfFR4swd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omj6ri7izk3d2bz723w9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lfFR4swd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omj6ri7izk3d2bz723w9.png)
 
-**Individually,** stay true to what is really important. Technologies will come and go, but the value you bring to the world is what counts. It’s hard to fake hard work and experience.
+**就个人而言，** 要坚守真正重要的东西。技术会不断更迭，但你为世界带来的价值才是关键。勤奋的工作和丰富的经验是难以伪装的。
 
-**As a company,** start with _why_ when making decisions. This is the best way to deliver functionalities that will bring value. Also, make sure the employees know that **_why_**. In my experience, they will make better decisions, give valuable feedback and be happier.
+**作为公司，**在做决定时从_为什么_开始。这是带来价值的功能的最佳方式。同时，确保员工知道那个_为什么_。根据我的经验，他们会做出更好的决定，提供有价值的反馈，并且更快乐。
+**作为一家公司，** 在做决策时要从 _“为什么”_ 开始。这是交付能带来价值的功能的最佳方式。此外，要确保员工明白这个 **_“为什么”_**。以我的经验来看，他们会做出更好的决策，提供有价值的反馈，并且会更快乐。
 
-**Culturally,** establish processes that will support the employees, optimizing long-term. Together with your colleagues establish a culture of trust, support and caring. That way, you will all get the best of one another.
+**从文化层面而言，** 要建立能为员工提供支持的流程，以实现长期优化。与同事们一同营造一种信任、支持和关怀的文化。这样，你们就能彼此成就，发挥出各自最大的潜能。
 
 ---
 
