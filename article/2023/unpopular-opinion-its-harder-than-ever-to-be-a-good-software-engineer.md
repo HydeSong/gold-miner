@@ -25,7 +25,7 @@
 
 [![](https://res.cloudinary.com/practicaldev/image/fetch/s--BC97uBAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfcrp0dz22qnrhkas89u.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BC97uBAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfcrp0dz22qnrhkas89u.png)
 
-来源：[工程领导技能重叠](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps)
+来源：[工程领导技能的重叠部分](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps)
 
 **成为一名_优秀的_工程师意味着什么？** 基于无数次面试和支持我的学员的进步，我注意到不同专业水平的人可能会给出不同的答案。
 
